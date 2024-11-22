@@ -1,3 +1,3 @@
 # static-html-template
 
-Use this template to create static HTML websites and deploy them on Render.
+This is a link-in-bio that i put together and this is a static website.
